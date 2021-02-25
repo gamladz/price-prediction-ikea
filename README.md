@@ -1,7 +1,7 @@
 # Overview
 
 A supervised learning model to predict the price of different types of furniture
-based on the [Ikea Webscraper](https://github.com/gamladz/price-prediction-ikea)
+based on the [Ikea Webscraper](https://github.com/gamladz/ikea-webscraper)
 
 ## Installation
 
